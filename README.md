@@ -1,10 +1,12 @@
 # Programming 101
-Learn the basics of programming with Python in this introductory course by building real projects and learning real-world collaboration skills
-
-## Introduction
 This is the landing page for the Intro to Programming course given in conjuction with the [Akron Maker Space](https://akronmakerspace.org/). This page will change over time, so feel free to bookmark and reference back.
 
 Thank you!
+
+## Introduction
+Learn the basics of programming with Python in this introductory course by building projects and learning real-world collaboration skills!
+
+My name is Noah and I'm a professional data scientist and Python developer. I started as a self-taught hobbyist programmer and while making a career change into tech, found that I greatly enjoy teaching with Python.
 
 # First Session: Sunday Feb 5th @ 1:00 pm
 
