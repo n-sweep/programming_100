@@ -23,7 +23,7 @@ My name is Noah and I'm a professional data scientist and Python developer. I st
 - Create a GitHub account **[[CLICK HERE](https://github.com/login)]**
     - We won't be actively using GitHub until later courses, but we'll use our new login in the next step...
 - Create a Replit accout **[[CLICK HERE](https://replit.com/login)]**
-    - Log in using your GitHub new account!
+    - Log in using your new GitHub account!
 
 <img src="./image/replit_login.png" width=400 />
 
