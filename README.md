@@ -18,7 +18,7 @@ My name is Noah and I'm a professional data scientist and Python developer. I st
 **Location:** Virtual (meeting room link to be provided)  
 **Fee:** $15/hr for AMS Members ($25/hr for non-members)
 
-## Instructions (Please Complete Ahead 1st Session)
+## Instructions (Please Complete Ahead of 1st Session)
 
 - Create a GitHub account **[[CLICK HERE](https://github.com/login)]**
     - We won't be actively using GitHub until later courses, but we'll use our new login in the next step...
