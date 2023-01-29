@@ -34,4 +34,4 @@ My name is Noah and I'm a professional data scientist and Python developer. I st
 **Fee:** $15/hr for AMS Members ($25/hr for non-members)
 
 #### **Note:**
-Please see the [Programming 101 README]('101/README.md') before the first session!
+Please see the [Programming 101 README](101/README.md) before the first session!
