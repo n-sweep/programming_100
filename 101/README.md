@@ -1,6 +1,7 @@
 # Programming 101
-In this course, you will learn the basics of Python programming:
-You will learn about data structures and control flow, and you will write and run your very first program, as well as your second and third!
+In this course, you will learn the fundamental concepts of the Python programming language. This includes data types, variables, control flow, and user input/output. Uou will write and execute your very first program, as well as your second and maybe even third!
+
+
 
 ## Instructions (Please Complete Ahead of 1st Session)
 
