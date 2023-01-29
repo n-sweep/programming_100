@@ -3,12 +3,6 @@ This is the landing page for the Intro to Programming course given in conjuction
 
 Thank you!
 
-<!--## Table of Contents-->
-<!--- [Introduction](#Introduction)-->
-<!--- [Schedule](#Schedule)-->
-<!--- [Next Session](#next-session-sunday-feb-5th--100-pm)-->
-    <!--- [Sign Up Now!](https://docs.google.com/forms/d/e/1FAIpQLSeQFrRjjD6vaugK-CW13LAds3elkYa8ziQscWZOTx7sEfEf0A/viewform?usp=sf_link)-->
-
 # Introduction
 Learn the basics of programming with Python in this introductory course by building projects and learning real-world collaboration skills!
 
