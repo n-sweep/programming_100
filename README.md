@@ -14,18 +14,18 @@ My name is Noah and I'm a professional data scientist and Python developer. I st
 #### February
 ```
 2023-02-05 Sunday, Feb 5th
-     1:00pm -  3:00pm : Programming 100 [101, 102, 103, 104]
+     1:00pm -  3:00pm : Programming 101
 2023-02-12 Sunday, Feb 12th
-     1:00pm -  3:00pm : Programming 100 [101, 102, 103, 104]
+     1:00pm -  3:00pm : Programming 102
 2023-02-19 Sunday, Feb 19th
-     1:00pm -  3:00pm : Programming 100 [101, 102, 103, 104]
+     1:00pm -  3:00pm : Programming 103
 2023-02-26 Sunday, Feb 26th
-     1:00pm -  3:00pm : Programming 100 [101, 102, 103, 104]
+     1:00pm -  3:00pm : Programming 104
 ```
 
 # Next Session: Sunday Feb 5th @ 1:00 pm
 
-#### [[SIGN UP NOW!](https://docs.google.com/forms/d/e/1FAIpQLSeQFrRjjD6vaugK-CW13LAds3elkYa8ziQscWZOTx7sEfEf0A/viewform?usp=sf_link)]
+#### [SIGN UPS CLOSED]
 
 **Series:** `Programming 100 [101, 102, 103, 104]`  
 **Date:** 2023-02-05  
