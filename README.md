@@ -23,15 +23,12 @@ My name is Noah and I'm a professional data scientist and Python developer. I st
      1:00pm -  3:00pm : Programming 104
 ```
 
-# Next Session: Sunday Feb 5th @ 1:00 pm
+# Next Session: Sunday Feb 12th @ 1:00 pm
 
 #### [SIGN UPS CLOSED]
 
 **Series:** `Programming 100 [101, 102, 103, 104]`  
-**Date:** 2023-02-05  
+**Date:** 2023-02-12  
 **Time:** 1:00pm to 3:00pm  
 **Location:** Virtual (meeting room link to be provided)  
 **Fee:** $15/hr for AMS Members ($25/hr for non-members)
-
-#### **Note:**
-Please see the [Programming 101 README](101/README.md) before the first session!
